@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FragmentosDeColor</string>
+
+    <string-array name="color_array">
+        <item>Negro</item>
+        <item>Azul</item>
+        <item>Cian</item>
+        <item>Gris Oscuro</item>
+        <item>Gris</item>
+        <item>Verde</item>
+        <item>Gris Claro</item>
+        <item>Magenta</item>
+        <item>Rojo</item>
+        <item>Transparente</item>
+        <item>Blanco</item>
+        <item>Amarillo</item>
+    </string-array>
+</resources>
